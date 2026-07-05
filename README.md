@@ -17,7 +17,7 @@
 
 </td>
 <td width="35%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/cat-laptop.gif" width="220"/>
+<img src="https://raw.githubusercontent.com/rameenahmad/rameenahmad/main/assets/cat-laptop.gif" width="220"/>
 </td>
 </tr>
 </table>

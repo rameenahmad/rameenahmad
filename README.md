@@ -3,24 +3,18 @@
    here's your reward: 🐱☕ purr-fectly brewed code incoming.
 -->
 
-<div align="center">
+<!--
+   👋 hey, you actually opened the raw markdown. respect.
+   here's your reward: 🐱☕ purr-fectly brewed code incoming.
+-->
 
-<table>
-<tr>
-<td width="65%">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFB5C0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+a+2%2B+year+dev+%F0%9F%92%BB;Powered+by+coffee+%E2%98%95;Cats+%3E+everything+else+%F0%9F%90%88" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F49FB0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+a+2%2B+year+dev+%F0%9F%92%BB;Powered+by+coffee+%E2%98%95;Cats+%3E+everything+else+%F0%9F%90%88" />
   <img alt="typing animation" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F49FB0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+a+2%2B+year+dev+%F0%9F%92%BB;Powered+by+coffee+%E2%98%95;Cats+%3E+everything+else+%F0%9F%90%88" />
 </picture>
-
-</td>
-<td width="35%">
-<img src="https://raw.githubusercontent.com/rameenahmad/rameenahmad/main/assets/cat-laptop.gif" width="220"/>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -39,21 +33,6 @@
   <img src="https://img.shields.io/badge/Code%20Reviews-please%20be%20gentle-FFC6FF?style=flat-square&labelColor=FFF0FF" />
   <img src="https://img.shields.io/badge/Bugs-a%20feature%20not%20a%20bug-FFADAD?style=flat-square&labelColor=FFF0F0" />
 </p>
-
----
-
-### 🎧 What I'm currently vibing to
-
-<table>
-<tr>
-<td width="60%">
-<img src="https://novatorem-lemon-taupe.vercel.app/api/spotify" width="480" alt="spotify now playing"/>
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/rameenahmad/rameenahmad/main/assets/cats-dancing.gif" width="180"/>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -76,8 +55,6 @@
 
 <div align="center">
 <sub>😉 psst — you scrolled all the way down here</sub>
-<br/>
-<img src="https://raw.githubusercontent.com/rameenahmad/rameenahmad/main/assets/hamster-heart.gif" width="120"/>
 </div>
 
 <!--
